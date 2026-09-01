@@ -15,3 +15,9 @@ button {
     border: none;
     border-radius: 10px;
 }
+
+.buttonContent {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
