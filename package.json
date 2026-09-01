@@ -1,4 +1,9 @@
 {
+  "homepage": "https://angelika200300-hub.github.io/2.1.2/",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "name": "my-app-2.1.2",
   "version": "0.1.0",
   "private": true,
